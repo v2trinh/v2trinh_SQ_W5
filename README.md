@@ -6,7 +6,7 @@ A single player maze game where the user must move the character and collect all
 
 **Controls:** WASD to move.
 
-Collect all 3 coins then reach the green exit tile to win.
+Collect all 3 stars then reach the dark green exit tile to win.
 
 ## Assets
 
