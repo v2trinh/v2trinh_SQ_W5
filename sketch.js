@@ -91,7 +91,7 @@ const TILE_COLORS = {
 let player = {
   x: 0,
   y: 0,
-  speed: 10,
+  speed: 2.5,
 
   // Animation state
   currentFrame: 0,
