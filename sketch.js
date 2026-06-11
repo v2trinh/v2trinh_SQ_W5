@@ -131,7 +131,7 @@ let backgroundImage;
 function preload() {
   characterSheet = loadImage("assets/images/mario_character_sprite.png");
   starSheet = loadImage("assets/images/mario_star_sprite.png");
-  backgroundImage = loadImage("assets/images/mario_background.jpg");
+  backgroundImage = loadImage("assets/images/mario_bg.jpg");
 }
 
 // ============================================================
